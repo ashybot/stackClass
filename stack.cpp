@@ -1,5 +1,5 @@
 //=========================================================
-// Name: Ashley Jacobs
+// Ashley Jacobs
 // Complier:  g++
 // Stack implementation file stack.cpp
 //=========================================================
